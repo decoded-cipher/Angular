@@ -1,0 +1,9 @@
+<p>about-us works!</p>
+<div *ngIf="states.length==0;elsepart">No States found</div>
+<ng-template #elsepart>
+    <select>
+        <option *ngFor="let state for states">
+            {{state}}
+        </option>
+        </select>
+</ng-template>
