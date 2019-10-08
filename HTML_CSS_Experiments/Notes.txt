@@ -1,0 +1,54 @@
+IDE -> Integrated Development Environment
+
+To automatically gain boiler plate, press ! -> (Exclamation) followed by ENTER
+
+Alt + Shift + F -> For Alligning in VSCode...
+
+HTML -> HyperText Markup Language
+CSS -> Cascading Style Sheets
+CSS -> Internal, Inline and External...
+
+<span></span> -> To select a particular area of interest to apply a specific style...
+
+Difference b/w ID and CLASS ->  
+ID -> Could only used to refer a single element...
+CLASS -> Could be used to refer multiple sets of elements...
+
+Bootstrap -> https://www.getbootstrap.com
+
+DOM Tree -> Document Object Model (Tree structure of entire elements within a document)
+JavaScript can access each and every elements individually and also as a whole...
+
+document.getElementsByTagName('h1');  -> To access every element with h1
+document.getElementById('js');  -> To access a particular elementby ID
+
+var ele=document.getElementById('js');
+ele.style.color="red";  -> change the color of element with id="js"
+
+ele.innerHTML="js";
+
+aframe.js, three.js, phaser.js, node.js, react.js, angular.js, vue.js
+
+JavaScript:-
+alert() -> popup alert message
+document ->complete web page code
+console.log
+
+node is a rum-time Environment
+
+npm init --yes
+npm i @angular/cli  -> download angular files locally in a project
+npm install -g @angular/cli  -> download angular files globally
+ng new filename
+cd filename
+ng serve  -> To run the Angular project
+ng g c name  -> For creating a new file
+
+router-link
+imports:[]
+RouterModule.forRoot([])
+
+
+
+https://www.angular.io/start
+course of heros
