@@ -36,6 +36,7 @@ console.log
 
 node is a rum-time Environment
 
+npm install
 npm init --yes
 npm i @angular/cli  -> download angular files locally in a project
 npm install -g @angular/cli  -> download angular files globally
